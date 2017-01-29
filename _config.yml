@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - redcarpet
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Kasim Te
+tagline:          'A website.'
+description:      "Hi, I'm Kasim."
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Kasim Te'
+  url:            https://twitter.com/kasimte
+
+paginate:         5
+
+# Custom vars
+
+github:
+  repo:           https://github.com/kasimte
+
