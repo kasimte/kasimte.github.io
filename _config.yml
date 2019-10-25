@@ -24,3 +24,5 @@ paginate:         5
 github:
   repo:           https://github.com/kasimte
 
+# Google Analytics
+google_analytics: UA-3507592-2
