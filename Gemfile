@@ -1,5 +1,6 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem "jekyll", ">= 3.6.3"
-gem "jekyll-paginate"
-gem "jekyll-gist"
+source "https://rubygems.org"
+gemspec
+
+gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]

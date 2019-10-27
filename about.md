@@ -1,14 +1,18 @@
 ---
 layout: page
-title: Contact
+title: About
+permalink: /about/
 ---
 
-Hi, I'm Kasim Te. This is my little spot on the web.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-## Contact
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-- kasimte (at) gmail.com
-- [@kasimte](https://twitter.com/kasimte)
-- [On GitHub](https://github.com/kasimte)
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
-Thanks for reading!
+
+[jekyll-organization]: https://github.com/jekyll
