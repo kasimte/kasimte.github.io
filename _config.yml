@@ -2,9 +2,9 @@ title: Kasim Te
 author: kasimte (on) GitHub
 email: kasimte@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  This site was built on Jekyll, using the Minima theme.
+  Built on Jekyll, with the Minima theme.
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -50,3 +50,4 @@ plugins:
  - jekyll-seo-tag
 
 google_analytics: UA-3507592-2
+

@@ -4,12 +4,19 @@ title: About
 permalink: about/
 ---
 
-Hi, I'm Kasim Te. This is my little spot on the web.
+Hi, I'm Kasim Te. Welcome to my site.
 
-## Contact
+### Now
 
-- kasimte (at) gmail.com
-- [@kasimte](https://twitter.com/kasimte)
-- [On GitHub](https://github.com/kasimte)
+I'm currently at [KAIST](http://www.kaist.edu) in
+the [Knowledge Service Engineering](https://kse.kaist.ac.kr/)
+department and KSchool, looking at ways to combine HCI and machine
+learning.
 
-Thanks for reading!
+### Contact
+
+- [kasimte@gmail.com](mailto://kasimte@gmail.com) on Email
+- [@kasimte](https://twitter.com/kasimte) on Twitter
+- [kasimte](https://github.com/kasimte) on GitHub
+
+Reach out! If you write me, I'll likely reply.
