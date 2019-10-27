@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Contact
+title: About
+permalink: about/
 ---
 
 Hi, I'm Kasim Te. This is my little spot on the web.

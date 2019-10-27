@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installing an older MacPort version.
+title: Installing an older version of OpenSSL via MacPorts
 ---
 
 I had to install an older version of OpenSSL via MacPorts today and was having trouble until my brother pointed me to the MacPorts website on how to do it. 

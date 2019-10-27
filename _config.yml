@@ -1,28 +1,52 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-plugins: [jekyll-paginate, jekyll-gist]
+title: Kasim Te
+author: kasimte (on) GitHub
+email: kasimte@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  This site was built on Jekyll, using the Minima theme.
 
-# Permalinks
-permalink:        pretty
+show_excerpts: false # set to true to show excerpts on the homepage
 
-# Setup
-title:            Kasim Te
-tagline:          'A website.'
-description:      "Hi, I'm Kasim."
-url:              http://hyde.getpoole.com
-baseurl:          /
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
 
-author:
-  name:           'Kasim Te'
-  url:            https://twitter.com/kasimte
+  # generate social links in footer
+  social_links:
+    twitter: kasimte
+    github:  kasimte
+    # rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    keybase: kasimte
 
-paginate:         5
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
 
-# Custom vars
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
 
-github:
-  repo:           https://github.com/kasimte
+# Build settings
+theme: minima
 
-# Google Analytics
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
 google_analytics: UA-3507592-2
