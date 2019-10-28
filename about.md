@@ -17,7 +17,7 @@ machine learning.
 ### Previous
 
 * I made [LawStack](https://www.lawstack.com) and some other mobile apps.
-* Helicopter instructor outside Boston.
+* I used to fly some outside Boston. Here's [one of my favorite lesson plans](/flying/helicopter-dme-arc-lesson-plan) I developed with a student.
 * Spent a year in South Korea on a [Fulbright](http://www.fulbright.or.kr/) grant.
 * Studied Chinese at [UMass/Amherst](http://www.umass.edu) and [Fudan](https://www.fudan.edu.cn/en/) back in the day.
 
