@@ -10,8 +10,16 @@ Hi, I'm Kasim Te. Welcome to my site.
 
 I'm currently at [KAIST](http://www.kaist.edu) in
 the [Knowledge Service Engineering](https://kse.kaist.ac.kr/)
-department and KSchool, looking at ways to combine HCI and machine
-learning.
+department through the [KSchool](https://kschool.kaist.ac.kr/)
+master's program. I've mostly been looking at ways to apply HCI and
+machine learning.
+
+### Previous
+
+* I made [LawStack](https://www.lawstack.com) and some other mobile apps.
+* Helicopter instructor outside Boston.
+* Spent a year in South Korea on a [Fulbright](http://www.fulbright.or.kr/) grant.
+* Studied Chinese at [UMass/Amherst](http://www.umass.edu) and [Fudan](https://www.fudan.edu.cn/en/) back in the day.
 
 ### Contact
 
@@ -19,4 +27,4 @@ learning.
 - [@kasimte](https://twitter.com/kasimte) on Twitter
 - [kasimte](https://github.com/kasimte) on GitHub
 
-Reach out! If you write me, I'll likely reply.
+Feel free to reach out! If you write me, I'll likely reply.
