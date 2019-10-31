@@ -39,9 +39,10 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
+header_pages:
+  - about.md
+  - blog.md
+  
 # Build settings
 theme: minima
 
@@ -50,6 +51,3 @@ plugins:
  - jekyll-seo-tag
 
 google_analytics: UA-3507592-2
-
-header_pages:
-  - about.md

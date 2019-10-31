@@ -1,14 +1,10 @@
 ---
 layout: default
+title: Blog
+permalink: blog
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  {{ content }}
-
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Recent Posts" }}</h2>
     <ul class="post-list">
