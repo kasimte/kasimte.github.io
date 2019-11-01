@@ -28,3 +28,7 @@ machine learning.
 - [kasimte](https://github.com/kasimte) on GitHub
 
 Feel free to reach out! If you write me, I'll likely reply.
+
+![portrait]({{ site.url }}/assets/images/kasim-portrait-400.png)
+
+<small><i>Photo Credit: [Jonnie Clermont](https://www.linkedin.com/in/jonathan-clermont-baa09064/)</i></small>

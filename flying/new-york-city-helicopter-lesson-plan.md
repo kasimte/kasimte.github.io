@@ -16,13 +16,6 @@ This lesson is best suited for a private helicopter pilot
 working on their commercial helicopter rating, but may be adapted to
 any rated helicopter pilot interested in NY airspace.
 
-<span style="float: right; padding: 10px;"><a
-href="http://www.flickr.com/photos/kasimte/9450283430/" title="la
-guardia with manhattan in the background by kasimte, on Flickr"><img
-src="http://farm8.staticflickr.com/7300/9450283430_b473384e24_m.jpg"
-width="160" height="240" alt="la guardia with manhattan in the
-background"></a></span>
-
 ### Homework Assignments
 
 - Flight plan the trip from Hanscom to NY and back.
@@ -54,12 +47,6 @@ lesson:
 - New York Helicopter Route Map
 - Airport Facility Directory
 - [New York SFRA Kneeboard Sheet](https://www.faasafety.gov/files/gslac/courses/content/79/775/kneeboard.pdf)
-
-<span style="float: right; padding: 10px;"><a
-href="http://www.flickr.com/photos/kasimte/9450283558/" title="charles
-east river by kasimte, on Flickr"><img
-src="http://farm6.staticflickr.com/5343/9450283558_b93c751a9d_m.jpg"
-width="240" height="160" alt="charles east river"></a></span>
 
 ### Completion Standards
 
