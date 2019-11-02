@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Issues with GCC when Installing mujoco-py
+tags: spinningup system python
 ---
 
 I kept on running into this GCC error when trying to install `mujoco-py` for OpenAI’s Spinning Up tutorials:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  The Log Derivative Trick For Dummies
+tags: spinningup math reinforcement-learning
 ---
 
 I came across this while reading through [OpenAI's Spinning Up Reinforcement Learning tutorial](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html):

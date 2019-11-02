@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rolling with Silver Searcher in Emacs
+tags: emacs bro tips
 ---
 
 I was in the habit of switching from my Emacs session to the command line to run `git grep`, which my brother had seen a couple times, and recommended the [Silver Searcher (Ag)](https://github.com/ggreer/the_silver_searcher) search utility.

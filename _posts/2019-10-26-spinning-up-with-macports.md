@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spinning Up with MacPorts
+tags: macports mpi openmpi spinningup
 ---
 
 OpenAI's Spinning Up tutorial is a great resource, but its [installation procedures](https://spinningup.openai.com/en/latest/user/installation.html#installing-python) aren't so friendly for those on Mac OSX and using MacPorts instead of HomeBrew.

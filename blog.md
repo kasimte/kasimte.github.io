@@ -20,6 +20,12 @@ permalink: blog
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+        <span>[
+          {% for tag in post.tags %}
+            {% capture tag_name %}{{ tag }}{% endcapture %}
+            <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+          {% endfor %}
+		]</span>
       </li>
       {%- endfor -%}
     </ul>
