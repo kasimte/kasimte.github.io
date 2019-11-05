@@ -5,6 +5,8 @@ tagline: "updated August 2013"
 description: "by Kasim Te, updated August 2013"
 ---
 
+![portrait]({{ site.url }}/assets/images/manhattan-helicopter-400.png)
+
 ### Objective
 
 The student shall plan and conduct a cross-country flight from Hanscom

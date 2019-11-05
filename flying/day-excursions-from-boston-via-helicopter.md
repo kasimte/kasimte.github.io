@@ -12,6 +12,8 @@ helicopter. Plan for at least a six-hour block.
 
 ### New York City
 
+![portrait]({{ site.url }}/assets/images/manhattan-helicopter-400.png)
+
 Fly from Hanscom to New York, with a fuel stop at
 Bridgeport for a tour around Manhattan. Spot the three
 heliports. Return along the Connecticut coast or Long Island to view
