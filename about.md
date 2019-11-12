@@ -11,8 +11,17 @@ Hi, I'm Kasim Te. Welcome to my site.
 I'm currently at [KAIST](http://www.kaist.edu) in
 the [Knowledge Service Engineering](https://kse.kaist.ac.kr/)
 department through the [KSchool](https://kschool.kaist.ac.kr/)
-master's program. I've mostly been looking at ways to apply HCI and
-machine learning.
+master's program.
+
+It's been fun and humblign to be back in school, surrounded mostly by
+people much younger and smarter than I am. Here are some of the
+courses I've taken:
+
+* [Game Theory and Multi-Agent Reinforcement Learning](https://github.com/Jkparkaist/IE801)
+* Helicopter Aeromechanics
+* Machine Learning for Knowledge Service
+* Human Computer Interaction
+* [Startup Marketing](https://sites.google.com/view/startupmarketing/KEI540)
 
 ### Previous
 
