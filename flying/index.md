@@ -12,3 +12,4 @@ every once in a while.
 * [Day Excursions](day-excursions-from-boston-via-helicopter)
 * [Helicopter Chekckride Review Questions Addendum](helicopter-checkride-review-questions-addendum)
 
+Also, find my [flying resume here](resume).
