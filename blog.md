@@ -6,7 +6,16 @@ permalink: blog
 
 <div class="home">
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Recent Posts" }}</h2>
+    <h1 class="post-list-heading">{{ page.list_title | default: "Blog" }}</h1>
+	
+    {% include archive.html %}
+
+	<p>
+	
+    <h1 class="post-list-heading">{{ page.list_title | default: "Recent Posts" }}</h1>
+	
+	<p>
+	
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
