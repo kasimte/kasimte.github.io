@@ -34,13 +34,15 @@ Here are some of the courses I've taken:
 
 * I made [LawStack](https://www.lawstack.com) and some other mobile apps.
 * [I used to fly and instruct helicopters some outside Boston](/flying).
+  * If you are preparing for a pilot's knowledge examination, I made [some iPhone apps](https://duckduckgo.com/?q=faa+test+prep+tekk+innovations+app+store&t=brave&ia=web) for that.
+  * If you want the [FAR/AIM on your phone](https://apps.apple.com/us/app/far-aim-by-lawstack/id328979186), I made an app for that too.
 * [Spent a year in South Korea on a Fulbright grant, teaching middle school students](https://www.umass.edu/newsoffice/article/two-umass-amherst-students-receive-fulbright-grants).
 * Studied Chinese at [UMass/Amherst](http://www.umass.edu) and [Fudan](https://www.fudan.edu.cn/en/) back in the day.
 
 ### Blog
 
 Find more on [blog here](blog/). I mostly write about whatever I'm learning
-at the moment.
+at the moment (trying to focus on deep learning as of late).
 
 
 ### Contact
