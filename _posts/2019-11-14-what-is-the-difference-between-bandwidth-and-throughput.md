@@ -28,4 +28,4 @@ on your throughput being lower than your bandwidth.
 
 ## More
 
-* [On Quora](https://www.quora.com/Computer-Networking-What-is-the-difference-between-bandwidth-and-throughput)
+* [(Quora) Computer Networking: What is the difference between bandwidth and throughput?](https://www.quora.com/Computer-Networking-What-is-the-difference-between-bandwidth-and-throughput)

@@ -4,7 +4,7 @@ title: Installing OpenMPI with MacPorts
 tags: macports macosx homebrew
 ---
 
-*Update: I don't recommend this anymore.*
+*Update: I don't recommend this anymore, as I ran into trouble afterwards. See [here instead for more info on setting up openmpi with MacPorts](/2019/10/26/spinning-up-with-macports).*
 
 I was trying to get up and running with OpenAI's [baselines repository](https://github.com/openai/baselines) today, and held my breath when I saw that 
 
