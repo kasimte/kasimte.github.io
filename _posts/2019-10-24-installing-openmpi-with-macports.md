@@ -4,6 +4,8 @@ title: Installing OpenMPI with MacPorts
 tags: macports macosx homebrew
 ---
 
+*Update: I don't recommend this anymore.*
+
 I was trying to get up and running with OpenAI's [baselines repository](https://github.com/openai/baselines) today, and held my breath when I saw that 
 
 > Installation of system packages on Mac requires Homebrew.

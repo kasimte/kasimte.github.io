@@ -33,9 +33,15 @@ Here are some of the courses I've taken:
 ### Previous
 
 * I made [LawStack](https://www.lawstack.com) and some other mobile apps.
-* [I used to fly and instruct some outside Boston](/flying).
+* [I used to fly and instruct helicopters some outside Boston](/flying).
 * [Spent a year in South Korea on a Fulbright grant, teaching middle school students](https://www.umass.edu/newsoffice/article/two-umass-amherst-students-receive-fulbright-grants).
 * Studied Chinese at [UMass/Amherst](http://www.umass.edu) and [Fudan](https://www.fudan.edu.cn/en/) back in the day.
+
+### Blog
+
+Find more on [blog here](blog/). I mostly write about whatever I'm learning
+at the moment.
+
 
 ### Contact
 

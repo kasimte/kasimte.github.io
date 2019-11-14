@@ -21,4 +21,5 @@ that are available here:
 * [CFI-H](http://philip.greenspun.com/flying/helicopter-141/cfi/)
 * [CFII-H](http://philip.greenspun.com/flying/helicopter-141/cfii/)
 
-You can find my full [flying resume here](resume).
+I've signed off students successfully for all the above ratings except
+for CFI. You can find my full [flying resume here](resume).

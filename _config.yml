@@ -42,6 +42,7 @@ minima:
 header_pages:
   - about.md
   - blog.md
+  - flying/index.md
   
 # Build settings
 theme: minima

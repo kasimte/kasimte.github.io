@@ -13,9 +13,9 @@ Kasim Te. <br />Daejeon, South Korea and Chelmsford, MA USA.<br />Reachable at [
 - FAA instructor helicopter license with instrument rating (CFII-H), expires May 2020. ([Verify](https://amsrvs.registry.faa.gov/airmeninquiry))
 - FAA commercial remote pilot with small unmanned aircraft system rating. issued February 2017. ([Verify](https://amsrvs.registry.faa.gov/airmeninquiry))
 - SFAR 73 signoffs to instruct in the Robinson R22 and Robinson R44
-- FAA 2nd	 Class Medical (August 2016)
+- FAA 2nd Class Medical issued August 2016 ([Verify](https://amsrvs.registry.faa.gov/airmeninquiry))
 - Robinson Factory Safety Course (June 2008)
-- Starr Insurance Competency Check Flight (January 2013)
+- Starr Insurance Competency Check Flight (August 2016)
 - Nationality: USA
 - Age: 37 years
 
@@ -28,10 +28,10 @@ Kasim Te. <br />Daejeon, South Korea and Chelmsford, MA USA.<br />Reachable at [
 - Cross-country: 115
 - Night: 43
 
-## Aviation Experience
+## Experience
 
 **Pilot/Flight Instructor**, <a href='http://www.ecacbed.com'>East Coast
-Aero Club</a><br />Bedford, MA. 2010 - 2017.
+Aero Club</a><br />Bedford, MA. 2010 - 2016.
 
 Instruct in R22 and R44 helicopters. Fly tours and photo
 missions. Signed off students for private, instrument, commercial,
@@ -47,10 +47,6 @@ CFII-H, and ATP ratings.
 - Setup and managed DOT-compliant random drug testing program.
 - Managed fleet of 3-4 aircraft (R22, R44s, Cirrus SR20).
 
-## References
-
-Contact information and references available upon request.
-
 ## Education
 
 Korea Advanced Institute of Science and Technology. Master's Degree in Knowledge Service Engineering, expected February 2020. 
@@ -62,3 +58,8 @@ University of Massachusetts Amherst. BA in Chinese, Sept 2000 - May 2004. Summa 
 - Native English speaker. Familiarity with Mandarin, Korean, and Khmer.
 - Massachusetts native. Have lived in South Korea, China, and California.
 - Flying experience in New England, California, Florida, and Ireland.
+
+## References
+
+Contact information and references available upon request.
+
