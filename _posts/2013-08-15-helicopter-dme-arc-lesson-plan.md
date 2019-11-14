@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: post
 title: "Helicopter DME Arc Lesson Plan"
+tags: flying helicopters dme lesson-plan
+permalink: flying/helicopter-dme-arc-lesson-plan
 ---
 
 ### Objective

@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: "New York City Helicopter Lesson Plan"
-tagline: "updated August 2013"
-description: "by Kasim Te, updated August 2013"
+tags: helicopters nyc lesson-plan flying
+permalink: "flying/new-york-city-helicopter-lesson-plan"
 ---
 
 ![portrait]({{ site.url }}/assets/images/manhattan-helicopter-400.png)
