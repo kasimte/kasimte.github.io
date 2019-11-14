@@ -12,4 +12,13 @@ every once in a while.
 * [Day Excursions](day-excursions-from-boston-via-helicopter)
 * [Helicopter Chekckride Review Questions Addendum](helicopter-checkride-review-questions-addendum)
 
-Also, find my [flying resume here](resume).
+If you are looking for full helicopter syllabi, I co-authored some 
+that are available here:
+
+* [Private](http://philip.greenspun.com/flying/helicopter-141/private/)
+* [Instrument](http://philip.greenspun.com/flying/helicopter-141/instrument/)
+* [Commercial](http://philip.greenspun.com/flying/helicopter-141/commercial/)
+* [CFI-H](http://philip.greenspun.com/flying/helicopter-141/cfi/)
+* [CFII-H](http://philip.greenspun.com/flying/helicopter-141/cfii/)
+
+You can find my full [flying resume here](resume).
