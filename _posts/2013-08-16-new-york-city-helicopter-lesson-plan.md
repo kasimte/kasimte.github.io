@@ -1,21 +1,21 @@
 ---
-layout: page
+layout: post
 title: "New York City Helicopter Lesson Plan"
-tagline: "updated August 2013"
-description: "by Kasim Te, updated August 2013"
+tags: helicopters nyc lesson-plan flying
+permalink: "flying/new-york-city-helicopter-lesson-plan"
 ---
 
 ![portrait]({{ site.url }}/assets/images/manhattan-helicopter-400.png)
 
 ### Objective
 
-The student shall plan and conduct a cross-country flight from Hanscom
-Field (KBED) to New York City, with a tour through the Hudson River
+The student shall plan and conduct a cross-country flight from [Hanscom
+Field (KBED)](http://www.airnav.com/airport/KBED) to New York City, with a tour through the Hudson River
 and optionally the East River VFR corridors, and then back to
-Hanscom. 
+Hanscom.
 
 This lesson is best suited for a private helicopter pilot
-working on their commercial helicopter rating, but may be adapted to
+working on their [commercial helicopter rating](http://philip.greenspun.com/flying/helicopter-141/commercial/), but may be adapted to
 any rated helicopter pilot interested in NY airspace.
 
 ### Homework Assignments

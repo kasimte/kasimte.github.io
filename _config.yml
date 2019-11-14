@@ -28,7 +28,7 @@ minima:
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
-    keybase: kasimte
+    keybase: kasim
 
     # Mastodon instances
     # mastodon:
@@ -42,6 +42,7 @@ minima:
 header_pages:
   - about.md
   - blog.md
+  - flying/index.md
   
 # Build settings
 theme: minima
