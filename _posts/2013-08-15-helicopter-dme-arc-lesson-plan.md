@@ -5,8 +5,6 @@ tags: flying helicopters dme lesson-plan
 permalink: flying/helicopter-dme-arc-lesson-plan
 ---
 
-### Objective
-
 This lesson provides an overview of DME arcs and how to fly them in a
 Robinson R44 IFR trainer equipped with a Garmin 430W GPS.
 
