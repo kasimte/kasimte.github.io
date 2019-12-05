@@ -2,7 +2,7 @@ title: Kasim Te
 author: kasimte (on) GitHub
 email: kasimte@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Built on Jekyll, with the Minima theme.
+  Working Below Deck
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -42,7 +42,7 @@ minima:
 header_pages:
   - about.md
   - blog.md
-  - flying/index.md
+  # - flying/index.md
   
 # Build settings
 theme: minima
