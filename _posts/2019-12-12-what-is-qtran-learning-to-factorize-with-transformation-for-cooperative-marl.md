@@ -4,6 +4,8 @@ title: "[PAPER REVIEW] QTran: Learning to Factorize with Transformation"
 tags: marl mdp rl reinforcement-learning qtran qmix dec-pomdp papers
 ---
 
+*by Kasim Te and Yajie Zhou*
+
 I recently
 read 
 [QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1905.05408),
