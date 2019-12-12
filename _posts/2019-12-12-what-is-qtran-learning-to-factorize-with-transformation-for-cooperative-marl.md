@@ -4,7 +4,7 @@ title: "[PAPER REVIEW] QTran: Learning to Factorize with Transformation"
 tags: marl mdp rl reinforcement-learning qtran qmix dec-pomdp papers
 ---
 
-*by Kasim Te and Yajie Zhou*
+*As explained by Kasim Te and Yajie Zhou.*
 
 I recently
 read 
