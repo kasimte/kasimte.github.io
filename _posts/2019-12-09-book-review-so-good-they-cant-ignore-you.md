@@ -52,8 +52,8 @@ the winners are diverse.
 
 Some are convinced that if they only had the courage to pursue their
 passion, all would be well. Let’s call this *courage culture*. This is
-folly because it it’s not just courage that is required, but also
-career capital.
+folly because it’s not just courage that is required, but also
+*career capital*.
 
 People who love their jobs have *control*. They choose when and how
 they do their work. Do not make a bid for more control without the
