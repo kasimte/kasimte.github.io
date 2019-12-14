@@ -78,7 +78,7 @@ monotonicity is preserved.
 
 ![non-monotonic-matrix-game](/assets/images/qtran/non-monotonic-matrix-game.png)
 
-What's the optimal joint action of the non-montonic matrix game on the
+What's the optimal joint action of the non-monotonic matrix game on the
 left? It doesn't take long to see it is for both players to choose
 *A*. And yet VDN and QMMIX both fail to learn the optimal joint action.
 

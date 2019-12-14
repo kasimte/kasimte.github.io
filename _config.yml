@@ -41,7 +41,8 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - about.md
-  - blog.md
+  - posts.md
+  # - blog.md
   # - flying/index.md
   
 # Build settings
