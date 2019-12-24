@@ -8,8 +8,8 @@ Just some small examples of
 
 * [view](#view)
 * [reshape](#reshape)
-* [squeeze](#squeeze)
-* [unsqueeze](#squeeze)
+* [squeeze](#squeeze-and-unsqueeze)
+* [unsqueeze](#squeeze-and-unsqueeze)
 * [flatten](#flatten)
 * [rand](#rand)
 

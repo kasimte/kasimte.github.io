@@ -8,9 +8,19 @@ tags: marl mdp rl reinforcement-learning qtran qmix dec-pomdp papers
 
 I recently
 read 
-[QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1905.05408),
+[QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1905.05408) [1],
 and also met with the [primary author](https://github.com/Sonkyunghwan) to discuss its
 details. Here are some of my notes.
+
+1. [What is QTran?](#what-is-qtran)
+2. [What is the factorization approach?](#what-is-the-factorization-approach)
+3. [Motivation: Previous Approaches](#motivation-previous-approaches)
+4. [What about this game, though?](#what-about-this-game-though)
+5. [What is QTran’s approach?](#what-is-qtrans-approach)
+6. [What does the architecture look like?](#what-does-the-architecture-look-like)
+7. [How does this even work?](#how-does-this-even-work)
+8. [More](#more)
+9. [References](#references)
 
 ## What is QTran?
 
@@ -57,10 +67,10 @@ function as well, even if executing in a decentralized manner.
 
 ## Motivation: Previous Approaches
 
-VDN and [QMix](https://arxiv.org/abs/1803.11485) are two prior representative factorization
-approaches. They learn a joint Q function and ensure factorizability
-by adding a sufficient condition as a constraint. More specifically,
-VDN ensures it via additivity:
+VDN and [QMix](https://arxiv.org/abs/1803.11485) [2] are two prior
+representative factorization approaches. They learn a joint Q function
+and ensure factorizability by adding a sufficient condition as a
+constraint. More specifically, VDN ensures it via additivity:
 
 ![vdn-additivty](/assets/images/qtran/vdn-additivity.png)
 
@@ -80,7 +90,7 @@ monotonicity is preserved.
 
 What's the optimal joint action of the non-monotonic matrix game on the
 left? It doesn't take long to see it is for both players to choose
-*A*. And yet VDN and QMMIX both fail to learn the optimal joint action.
+*A*. And yet VDN and QMIX both fail to learn the optimal joint action.
 
 In many scenarios, the true joint Q function is likely very
 complex. It is possibly not convex and possibly not monotonic. In
@@ -170,4 +180,8 @@ components. Visually, this can be represented like this:
 * [QTran Presentation Slides](https://docs.google.com/presentation/d/1bamDeYgYZTo2Ty-npoCy5FSekltOdRju24_tDDH95zQ/edit?usp=sharing)
 * [Presentation on YouTube](https://youtu.be/BO0RZw3RHVg) (a bit rough, as this was an informal run)
 
+## References
 
+[1] *Son, Kyunghwan, et al. "QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning." arXiv preprint arXiv:1905.05408 (2019).*
+
+[2] *Rashid, Tabish, et al. "QMIX: monotonic value function factorisation for deep multi-agent reinforcement learning." arXiv preprint arXiv:1803.11485 (2018).*
