@@ -29,6 +29,7 @@ Here are some of the courses I've taken:
 * Human Computer Interaction
 * [Startup Marketing](https://sites.google.com/view/startupmarketing/KEI540)
 * Business Intelligence
+* Analytical Methods for Big Data
 
 ### Previous
 
@@ -41,7 +42,7 @@ Here are some of the courses I've taken:
 
 ### Blog
 
-Find more on [blog here](blog/). I mostly write about whatever I'm learning
+Find more on [blog here](/). I mostly write about whatever I'm learning
 at the moment (trying to focus on deep learning as of late).
 
 
