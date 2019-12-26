@@ -4,15 +4,15 @@ title: "Review: So Good They Can't Ignore You"
 tags: books book-review craftsman
 ---
 
-A few years back, a friend recommended *So Good They Can't Ignore
-You*, and I finally got around to reading it. Here is a summary in my
+A few years back, a friend recommended *[So Good They Can't Ignore
+You](https://amzn.to/2Qh5uqb)*, and I finally got around to reading it. Here is a summary in my
 own words (mostly for myself).
 
 ## Key Concept
 
-Naively doing what you love is stupid. Instead, create a track record
-of something rare and in demand in order to exchange for the control
-that most people seek in their life.
+Naively doing what you love is stupid. Instead, cultivate rare and
+valuable skills. Then use your track record to exchange for the
+control that most people seek in their life.
 
 ## Outline
 
@@ -38,15 +38,16 @@ And you need rare and valuable skills to exchange for rare and
 valuable jobs. So be a craftsman first and consider passion
 later. This is *the career capital theory of great work*.
 
-What does being a craftsman entail? Many people talk about *the 10,000
-hour rule* (make sure you’re putting in the time) and *deliberate
-practice* (make it quality time, where you’re actually being pushed to
-improve).
+What does being a craftsman entail? Many people talk about
+*[the 10,000 hour rule](https://en.wikipedia.org/wiki/Outliers_%28book%29)*
+(make sure you’re putting in the time) and *deliberate practice* (make
+it quality time, where you’re actually being pushed to improve).
 
-Also of note, if the *career capital market* in your field is
-*winner-take-all*, focus on the one skill that matters and ignore all
-else.  This is less important if your field is *auction*-based, where
-the winners are diverse.
+If you're preparing for a job, it may also think about whether the
+*career capital market* in your field is *winner-take-all* or
+*auction-based*. If the former, focus on the one skill that matters
+and ignore all else.  If the latter, you'll likely find the winners
+are more diverse.
 
 ### Rule 3: Turn Down a Promotion
 
@@ -63,21 +64,23 @@ capital*, your employer will likely fight you from making a
 change. This is *the second control trap*. This may come in the form
 of a promotion, which limits your control.
 
-How do you know avoid the above two traps? Use money as a litmus
-test. If someone is willing to pay you for something, you can use it
-to bid for more control. If not, you shouldn’t. This is the *law of
-financial viability*.
+How do you know how to avoid the above two traps? Use money as a
+litmus test. If someone is willing to pay you for something, you can
+use it to bid for more control. If not, you shouldn’t. This is the
+*law of financial viability*.
 
 ### Rule 4: Thinks Small, Act Big
 
 Finally, careers often benefit from some overarching *mission*. Good
 missions are often found in *the adjacent possible*, implying you
 should use the craftsman mindset to reach the cutting edge of your
-field. Doing so is often difficult, but can be mitigated by *little
-bets*, small (say one-month long) projects that both push your limits
-and explore. What makes a good project? You’ll know you’re on to
-something when people are inclined to say something about it (*the law
-of remarkability*).
+field. 
+
+Doing so is often difficult, but can be mitigated by *little bets*,
+small (say one-month long) projects that both push your limits and
+explore. What makes a good project? You’ll know you’re on to something
+when people are inclined to say something about it (*the law of
+remarkability*).
 
 ## Practical Tips for Craftsmanship
 

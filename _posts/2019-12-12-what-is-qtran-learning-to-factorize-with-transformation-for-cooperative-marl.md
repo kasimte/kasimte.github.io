@@ -38,8 +38,8 @@ partially observable markov decision process (DEC-POMDP).
 Here, 
 
 * *P* is the probability of the next state *s'* based on the current state *s* and joint action ***u***.
-* *R* is the shared reward function based on the current state *s* and joint action ***u***
-* *O* is the observation function for agent *i* based on the current state *s*
+* *R* is the shared reward function based on the current state *s* and joint action ***u***.
+* *O* is the observation function for agent *i* based on the current state *s*.
 
 The setting is cooperative, so agents share the reward.
 
