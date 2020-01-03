@@ -4,8 +4,6 @@ title: "Drilling the third tone in Mandarin"
 tags: mandarin
 ---
 
-# Working on the third tone in Mandarin
-
 My Mandarin pronunciation is passable, but inconsistent, particularly
 the third tone. This tends to surface when I haven’t spoken it in a
 while and particularly when I am not focusing, which tells me the
