@@ -51,6 +51,7 @@ at the moment (trying to focus on deep learning as of late).
 - [kasimte@gmail.com](mailto://kasimte@gmail.com) on Email
 - [@kasimte](https://twitter.com/kasimte) on Twitter
 - [kasimte](https://github.com/kasimte) on GitHub
+- [kasim_t](https://app.codesignal.com/profile/kasim_t) on CodeSignal
 
 Feel free to reach out! If you write me, I'll likely reply.
 
