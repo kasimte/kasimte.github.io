@@ -44,7 +44,11 @@ header_pages:
   - posts.md
   # - blog.md
   # - flying/index.md
-  
+
+# Enable mathjax and latex. See `_includes/head.html` for the
+# implementation.
+use_mathjax: true
+
 # Build settings
 theme: minima
 
