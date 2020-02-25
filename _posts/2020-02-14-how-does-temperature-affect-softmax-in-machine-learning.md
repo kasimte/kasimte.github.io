@@ -52,7 +52,7 @@ logits = logitsFrom(probabilities); logits
 
 
 
-In machine learning, the *logits layer* is a leyer near the end of a model, typically a classifier, which contains the logit of each classification.
+In machine learning, the *logits layer* is a layer near the end of a model, typically a classifier, which contains the logit of each classification.
 
 ## What is softmax?
 
