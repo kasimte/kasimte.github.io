@@ -14,11 +14,8 @@ department through the [KSchool](https://kschool.kaist.ac.kr/)
 master's program.
 
 It's been fun and humbling to be back in school, learning mostly from
-people
-much
-[younger](https://www.linkedin.com/in/gauvain-marseille-409ab1152/)
-and [smarter](https://github.com/Zymrael) than me, particularly having
-had some teaching experience in other fields but no formal science and
+people much younger and smarter than me, particularly having had some
+teaching experience in other fields but no formal science and
 engineering background.
 
 Here are some of the courses I've taken:
@@ -52,6 +49,7 @@ at the moment (trying to focus on deep learning as of late).
 - [@kasimte](https://twitter.com/kasimte) on Twitter
 - [kasimte](https://github.com/kasimte) on GitHub
 - [kasim_t](https://app.codesignal.com/profile/kasim_t) on CodeSignal
+- [kasim](https://keybase.io/kasim) on KeyBase
 
 Feel free to reach out! If you write me, I'll likely reply.
 
