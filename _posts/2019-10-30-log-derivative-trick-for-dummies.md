@@ -8,14 +8,26 @@ I came across this while reading through [OpenAI's Spinning Up Reinforcement Lea
 
 > The Log-Derivative Trick. The log-derivative trick is based on a simple rule from calculus: the derivative of \log x with respect to x is 1/x. When rearranged and combined with chain rule, we get:
 >
->   &nabla;<sub>theta</sub>P(trajectory\|theta) = P(trajectory\|theta) log P(trajectory\|theta) 
+
+$$\nabla_{\theta} P(\tau|\theta) = P(\tau|\theta) log P(\tau|\theta)$$
 
 For the calculus challenged, like myself, this may not be too obvious, so the following added details may help.
 
-* log f(x) = 1/f(x) * f(x)' (chain rule) 
-* log P(trajectory\|theta) = (1/P(trajectory\|theta)) * &nabla;<sub>theta</sub>P(trajectory\|theta)
-* When rearranged, this is
-  * &nabla;<sub>theta</sub>P(trajectory\|theta) = P(trajectory\|theta) log P(trajectory\|theta)
+$$
+log f(x) = 1/f(x) * f(x)'
+$$
+
+
+$$
+log P(\tau|\theta) = (1/P(\tau|\theta)) * \nabla_{\theta}P(\tau|\theta)
+$$
+
+
+When rearranged, this is
+
+$$
+\nabla_{\theta} P(\tau|\theta) = P(\tau|\theta) log P(\tau|\theta)
+$$
 
 More:
 
