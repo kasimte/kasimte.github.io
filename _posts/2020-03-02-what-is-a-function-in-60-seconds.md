@@ -52,5 +52,3 @@ Key Terms:
 * range
 * scalar valued function
 * vector valued function
-
-
