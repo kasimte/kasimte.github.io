@@ -3,3 +3,17 @@
 ---
 
 @import "minima";
+
+.post-nav {
+    display: flex;
+    margin-bottom: 25px;
+}
+.post-nav div {
+    /* flex-grow, flex-shrink, flex-basis */
+    flex: 1 1 0;
+}
+.post-nav-previous {
+}
+.post-nav-next {
+    text-align: right;
+}
