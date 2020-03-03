@@ -39,12 +39,22 @@ The subset of the co-domain that is actually mapped is called the
 two-dimensional real number and returns 2, the codomain may be the set
 of real numbers, but the range would be limited to 2.
 
-When the co-domain is a one-dimensional real number, the function is
-called a *scalar valued function* or a *real valued* function. When
-the co-domain maps to multi-dimensional real number, the function is
-referred to as a *vector valued function*.
+## Vector Transformations
 
-Key Terms:
+When the co-domain is a one-dimensional real number, the function is
+called a *scalar valued function* or a *real valued* function. The
+example above is a *scalar valued function* because $f: x \mapsto x^2$
+maps $\mathbb{R} \mapsto \mathbb{R}$.
+
+When the co-domain maps to multi-dimensional real number, the function
+is referred to as a *vector valued function*. Or, in other words, when
+the co-domain is $\mathbb{R}^m$, where $m > 1$, this is a *vector
+valued function*. People sometimes refer to this as a vector
+*transformation*, but essentially a *transformation* is simply a
+*function*.
+
+
+## Key Terms
 
 * function
 * domain
@@ -52,3 +62,4 @@ Key Terms:
 * range
 * scalar valued function
 * vector valued function
+* transformation

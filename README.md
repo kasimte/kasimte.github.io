@@ -1,5 +1,7 @@
 # Kasim Te's Personal Website
 
+[![HitCount](http://hits.dwyl.com/kasimte/kasimtegithubio.svg)](http://hits.dwyl.com/kasimte/kasimtegithubio)
+
 This is my personal website. Trying to keep it simple:
 
 * hosted on GitHub Pages ([Click Here to see the actual site](https://kasimte.github.io))
