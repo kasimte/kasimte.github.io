@@ -1,8 +1,7 @@
 title: Kasim Te
-author: kasimte (on) GitHub
+# author: kasimte (on) GitHub
 email: kasimte@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Working Below Deck
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -20,7 +19,7 @@ minima:
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: kasim-te-a815b332
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
