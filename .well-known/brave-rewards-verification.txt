@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kasimte.com
+Token: 94620d6d057302d5a4d147936ce58f1f5cb49b42f2050071a4114b1775b954de
