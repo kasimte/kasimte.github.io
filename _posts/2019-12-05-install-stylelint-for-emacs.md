@@ -2,6 +2,7 @@
 layout: post
 title: "Install stylelint for Emacs"
 tags: stylelint emacs
+permalink: install-stylelint-for-emacs
 ---
 
 I setup [stylelint](https://github.com/stylelint/stylelint) today and
