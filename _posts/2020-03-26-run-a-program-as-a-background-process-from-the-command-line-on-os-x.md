@@ -25,3 +25,15 @@ Kasim:kasimte.github.io Kasim$ gitx&
 [1] 56298
 Kasim:kasimte.github.io Kasim$ 
 ```
+
+Another case i often find myself using this trick is on a remote
+server, where I want to run something like [visdom](https://github.com/facebookresearch/visdom/) to display
+results from a machine learning experiment.
+
+In this case, it also helps to send the output of the process to
+`/dev/null`, which means it won't clog up the console in your shell
+session. That can be done with a line like this:
+
+```
+nohup visdom > /dev/null 2>&1 &
+```
