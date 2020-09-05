@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is “visual rendering” the future of QoE optimization?
-tags: networking machine-learning research qoe
+tags: networking machine-learning research qoe paper-review
 ---
 
 Is *visual rendering* the future abstraction for optimizing quality of
