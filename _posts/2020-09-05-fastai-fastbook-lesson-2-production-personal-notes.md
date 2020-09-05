@@ -152,5 +152,3 @@ would look like if a machine learning system worked really well.
 
 I ran on Google Colab, but at the time of this writing, there was
 underlying `pandas` library incompatibility.
-
-## Related
