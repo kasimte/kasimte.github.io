@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is “visual rendering” the future of QoE optimization?
+title: Is "visual rendering" the future of QoE optimization?
 tags: networking machine-learning research qoe paper-review
 ---
 
@@ -20,14 +20,17 @@ growing list of features.
 all of the pixels displayed on the screen over time as seen by the
 user.” This provides two main advantages:
 	
-* **expressibility**: it captures a *full visual experience* of a user, thereby bypassing the need for human engineered features and potential abstraction mismatch with actual user perception
-* **generalizability**: it is a *unifying* abstraction for all Internet applications
+* **expressibility**: it captures a *full visual experience* of a
+  user, thereby bypassing the need for human engineered features and
+  potential abstraction mismatch with actual user perception
+* **generalizability**: it is a *unifying* abstraction for all
+  Internet applications
 
 What sort of architecture would be required for this new approach? The
 paper outlines two main requirements:
 
-* A *visual renderer* that infers the visual rendering of taking an optimization *action*.
-* A *QoE model* that takes the visual rendering as input and predicts the QoE of a given optimization *action*.
+* A **visual renderer** that infers the visual rendering of taking an optimization *action*.
+* A **QoE model** that takes the visual rendering as input and predicts the QoE of a given optimization *action*.
 
 It then goes on to draw upon ideas from other disciplines to suggest
 ideas for how QoE modeling based on visual rendering might work. From
