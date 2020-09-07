@@ -4,7 +4,9 @@ title: Deep Learning for Coders with fastai and PyTorch, Lesson 2 Notes
 tags: fastai deep-learning pytorch
 ---
 
-These are some personal notes on Lesson 2 from the book, [Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527).
+These are some personal notes on Lesson 2 from the
+book,
+[Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527).
 
 ## From Model to Production
 
