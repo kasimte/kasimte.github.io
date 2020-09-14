@@ -30,6 +30,8 @@ wéi jiàn cháng jiāng tiān jì liú
 * 帆: a (boat) sail, *literary*（指船）refers to a sailing boat
 * 碧: jade
 
+This one of Niujie's favorites.
+
 ## Related
 
 * [The Tang Dynasty Poetry Project](/projects/tang-dynasty-poetry-project)
