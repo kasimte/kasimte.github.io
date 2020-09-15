@@ -21,7 +21,7 @@ Dynasty poetry too? I'd love to hear your thoughts.
 
 * 9/9/2020	寻隐者不遇 by 贾岛		\[[YouTube](https://youtu.be/Qe2pUTuu3r8)\]
 * 9/10/2020 登乐游原 by 李商隐 \[[YouTube](https://youtu.be/fdN2cOAyVfI)\]
-* 9/11/2020 《[九月九日忆山东兄弟](tang-dynasty-poetry/wang-wei/jiu-yue-jiu-ri-yi-shan-dong-xiong-di)》王维 \[[YouTube](https://youtu.be/berURtfPzvs)\]
+* 9/11/2020 《[九月九日忆山东兄弟](/projects/tang-dynasty-poetry/wang-wei/jiu-yue-jiu-ri-yi-shan-dong-xiong-di)》[王维](/tag/王维) \[[YouTube](https://youtu.be/berURtfPzvs)\]
 * 9/12/2020 《[凉州词](/projects/tang-dyanasty-poetry/wang-han/liang-zhou-ci)》[王翰](/tag/王翰)
 * 9/13/2020 《[送孟浩然之广陵](/projects/tang-dyanasty-poetry/li-bai/song-meng-hao-ran-zhi-guang-ling)》 [李白](/tag/李白)
 
