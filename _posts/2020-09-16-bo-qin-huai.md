@@ -10,8 +10,8 @@ tags: chinese tang-dynasty-poetry 杜牧
 ```
 烟笼寒水月笼沙
 yān lóng hán shuǐ yuè lóng shā
-夜波秦淮近酒家
-yè bō qín huái jìn jiǔ jiā
+夜泊秦淮近酒家
+yè bó qín huái jìn jiǔ jiā
 商女不知亡国恨
 shāng nǚ bù zhī wáng guó hèn
 隔江犹唱后庭花
