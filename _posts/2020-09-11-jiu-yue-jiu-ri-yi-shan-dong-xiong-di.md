@@ -30,5 +30,6 @@ biàn chā zhū yú shǎo yī rén。
 
 ## Related
 
-* [The Tang Dynasty Poetry Project](../../tang-dynasty-poetry-project)
+* [The Tang Dynasty Poetry Project](/projects/tang-dynasty-poetry-project)
 * [On Baidu Baike](https://baike.baidu.com/item/%E4%B9%9D%E6%9C%88%E4%B9%9D%E6%97%A5%E5%BF%86%E5%B1%B1%E4%B8%9C%E5%85%84%E5%BC%9F)
+* [YouTube](https://youtu.be/berURtfPzvs)
