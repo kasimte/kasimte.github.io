@@ -27,3 +27,4 @@ Dynasty poetry too? I'd love to hear your thoughts.
 
 * 9/14/2020 《[早发白帝城](/projects/tang-dyanasty-poetry/li-bai/zao-fa-bai-di-cheng)》 [李白](/tag/李白)
 * 9/15/2020 《[枫桥夜泊](/projects/tang-dyanasty-poetry/zhang-ji/feng-qiao-ye-bo)》 [张继](/tag/张继)
+* 9/16/2020 《[泊秦淮](/projects/tang-dyanasty-poetry/du-mu/bo-qin-huai)》 [杜牧](/tag/杜牧)
