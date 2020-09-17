@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《江南春》杜牧
+title: 《江南春》 杜牧
 permalink: /projects/tang-dynasty-poetry/du-mu/jiang-nan-chun
 tags: chinese tang-dynasty-poetry 杜牧
 ---
