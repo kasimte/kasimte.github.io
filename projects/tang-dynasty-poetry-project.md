@@ -21,11 +21,12 @@ Dynasty poetry too? I'd love to hear your thoughts.
 
 * 9/9/2020	寻隐者不遇 by 贾岛		\[[YouTube](https://youtu.be/Qe2pUTuu3r8)\]
 * 9/10/2020 登乐游原 by 李商隐 \[[YouTube](https://youtu.be/fdN2cOAyVfI)\]
-* 9/11/2020 《[九月九日忆山东兄弟](/projects/tang-dynasty-poetry/wang-wei/jiu-yue-jiu-ri-yi-shan-dong-xiong-di)》[王维](/tag/王维)
-* 9/12/2020 《[凉州词](/projects/tang-dyanasty-poetry/wang-han/liang-zhou-ci)》[王翰](/tag/王翰)
+* 9/11/2020 《[九月九日忆山东兄弟](/projects/tang-dynasty-poetry/wang-wei/jiu-yue-jiu-ri-yi-shan-dong-xiong-di)》 [王维](/tag/王维)
+* 9/12/2020 《[凉州词](/projects/tang-dyanasty-poetry/wang-han/liang-zhou-ci)》 [王翰](/tag/王翰)
 * 9/13/2020 《[送孟浩然之广陵](/projects/tang-dyanasty-poetry/li-bai/song-meng-hao-ran-zhi-guang-ling)》 [李白](/tag/李白)
 
 * 9/14/2020 《[早发白帝城](/projects/tang-dyanasty-poetry/li-bai/zao-fa-bai-di-cheng)》 [李白](/tag/李白)
 * 9/15/2020 《[枫桥夜泊](/projects/tang-dyanasty-poetry/zhang-ji/feng-qiao-ye-bo)》 [张继](/tag/张继)
 * 9/16/2020 《[泊秦淮](/projects/tang-dyanasty-poetry/du-mu/bo-qin-huai)》 [杜牧](/tag/杜牧)
 * 9/17/2020 《[江南春](/projects/tang-dyanasty-poetry/du-mu/jiang-nan-chun)》 [杜牧](/tag/杜牧)
+* 9/18/2020 《[夜雨寄北](/projects/tang-dynasty-poetry/yu-shang-yin/ye-yu-ji-bei)》 [李商隐]()
