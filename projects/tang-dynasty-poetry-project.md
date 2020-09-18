@@ -8,7 +8,7 @@ one a day, up to 50 poems. This page documents my progress. Like Tang
 Dynasty poetry too? I'd love to hear your thoughts.
 
 * 8/30/2020 金缕衣 by 杜秋娘 (dù qiū niáng) \[[YouTube](https://youtu.be/q0jqpQhtcfA)\]
-* 8/31/2020	静夜思 by 李白 \[[YouTube](https://youtu.be/xnWw2gbNw4U)\]
+* 8/31/2020	《[静夜思](/projects/tang-dynasty-poetry/li-bai/jing-ye-si)》 [李白](/tag/李白)
 * 9/1/2020 春晓	by 孟浩然 \[[YouTube](https://youtu.be/8g0ZbXonq6c)\]
 * 9/2/2020 回乡偶书 by 贺知章 (hè zhī zhāng) \[[YouTube](https://youtu.be/iySLv2uHlRw)\]
 * 9/3/2020 相思 by 王维 \[[YouTube](https://youtu.be/SI_Qy3vxQgM)\]
@@ -29,4 +29,4 @@ Dynasty poetry too? I'd love to hear your thoughts.
 * 9/15/2020 《[枫桥夜泊](/projects/tang-dyanasty-poetry/zhang-ji/feng-qiao-ye-bo)》 [张继](/tag/张继)
 * 9/16/2020 《[泊秦淮](/projects/tang-dyanasty-poetry/du-mu/bo-qin-huai)》 [杜牧](/tag/杜牧)
 * 9/17/2020 《[江南春](/projects/tang-dyanasty-poetry/du-mu/jiang-nan-chun)》 [杜牧](/tag/杜牧)
-* 9/18/2020 《[夜雨寄北](/projects/tang-dynasty-poetry/yu-shang-yin/ye-yu-ji-bei)》 [李商隐]()
+* 9/18/2020 《[夜雨寄北](/projects/tang-dynasty-poetry/yu-shang-yin/ye-yu-ji-bei)》 [李商隐](/tag/李商隐)
