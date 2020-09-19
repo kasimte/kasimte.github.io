@@ -67,3 +67,9 @@ disqus:
 # conversion. .htaccess is a good example since dotfiles are excluded
 #  by default.
 include: [".well-known"]
+
+# https://rbuchberger.github.io/jekyll_picture_tag/users/configuration/
+picture:
+  source: "assets/images/fullsize"
+  output: "assets/images/generated"
+  suppress_warnings: true
