@@ -15,7 +15,7 @@ Dynasty poetry too? I'd love to hear your thoughts.
 
 * 9/4/2020 悯农 by 李绅 \[[YouTube](https://youtu.be/odTdxJbxQxQ)\]
 * 9/5/2020	咏鹅 by 骆宾王	(luò bīn wáng)	\[[YouTube](https://youtu.be/8ryJj6FOBZA)\]
-* 9/6/2020	鹿柴 by 王维		\[[YouTube](https://youtu.be/6msd4mKUjPo)\]
+* 9/6/2020	《[鹿柴](/projects/tang-dynasty-poetry/wang-wei/lv-zhai)》 [王维](/tag/王维)
 * 9/7/2020	登鹳雀楼	(dēng guàn què lóu) by 王之涣	(wáng zhī huàn)	\[[YouTube](https://youtu.be/rMwl_F7YJ50)\]
 * 9/8/2020	江雪 by 柳宗元	(liǔ zōng yuán)	\[[YouTube](https://youtu.be/-0T7ue_vIwI)\]
 
