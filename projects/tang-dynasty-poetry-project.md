@@ -17,7 +17,7 @@ Dynasty poetry too? I'd love to hear your thoughts.
 * 9/5/2020	咏鹅 by 骆宾王	(luò bīn wáng)	\[[YouTube](https://youtu.be/8ryJj6FOBZA)\]
 * 9/6/2020	《[鹿柴](/projects/tang-dynasty-poetry/wang-wei/lv-zhai)》 [王维](/tag/王维)
 * 9/7/2020	登鹳雀楼	(dēng guàn què lóu) by 王之涣	(wáng zhī huàn)	\[[YouTube](https://youtu.be/rMwl_F7YJ50)\]
-* 9/8/2020	江雪 by 柳宗元	(liǔ zōng yuán)	\[[YouTube](https://youtu.be/-0T7ue_vIwI)\]
+* 9/8/2020	[江雪](/projects/tang-dynasty-poetry/liu-zong-yuan/jiang-xue) by [柳宗元](/tag/柳宗元)
 
 * 9/9/2020	寻隐者不遇 by 贾岛		\[[YouTube](https://youtu.be/Qe2pUTuu3r8)\]
 * 9/10/2020 登乐游原 by 李商隐 \[[YouTube](https://youtu.be/fdN2cOAyVfI)\]
@@ -30,3 +30,5 @@ Dynasty poetry too? I'd love to hear your thoughts.
 * 9/16/2020 《[泊秦淮](/projects/tang-dyanasty-poetry/du-mu/bo-qin-huai)》 [杜牧](/tag/杜牧)
 * 9/17/2020 《[江南春](/projects/tang-dyanasty-poetry/du-mu/jiang-nan-chun)》 [杜牧](/tag/杜牧)
 * 9/18/2020 《[夜雨寄北](/projects/tang-dynasty-poetry/yu-shang-yin/ye-yu-ji-bei)》 [李商隐](/tag/李商隐)
+
+* 9/19/2020 《[出塞](/projects/tang-dynasty-poetry/wang-chang-ling/chu-sai)》 [王昌龄](/tag/王昌龄)
