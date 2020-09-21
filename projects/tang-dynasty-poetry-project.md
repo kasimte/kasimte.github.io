@@ -3,9 +3,10 @@ layout: page
 title: The Tang Dynasty Poetry Project
 ---
 
+<span style="font-weight: lighter;">*Updated Fall 2020*</span>
+
 I've recently been going through Tang Dynasty Poetry, trying to learn
-one a day, up to 50 poems. This page documents my progress. Like Tang
-Dynasty poetry too? I'd love to hear your thoughts.
+one a day, up to 50 poems. This page documents my progress.
 
 * 8/30/2020 金缕衣 by 杜秋娘 (dù qiū niáng) \[[YouTube](https://youtu.be/q0jqpQhtcfA)\]
 * 8/31/2020	《[静夜思](/projects/tang-dynasty-poetry/li-bai/jing-ye-si)》 [李白](/tag/李白)
@@ -14,7 +15,7 @@ Dynasty poetry too? I'd love to hear your thoughts.
 * 9/3/2020 相思 by 王维 \[[YouTube](https://youtu.be/SI_Qy3vxQgM)\]
 
 * 9/4/2020 悯农 by 李绅 \[[YouTube](https://youtu.be/odTdxJbxQxQ)\]
-* 9/5/2020	咏鹅 by 骆宾王	(luò bīn wáng)	\[[YouTube](https://youtu.be/8ryJj6FOBZA)\]
+* 9/5/2020	[咏鹅](/projects/tang-dynasty-poetry/luo-bin-wang/yong-e) by 骆宾王	(luò bīn wáng)	\[[YouTube](https://youtu.be/8ryJj6FOBZA)\]
 * 9/6/2020	《[鹿柴](/projects/tang-dynasty-poetry/wang-wei/lv-zhai)》 [王维](/tag/王维)
 * 9/7/2020	登鹳雀楼	(dēng guàn què lóu) by 王之涣	(wáng zhī huàn)	\[[YouTube](https://youtu.be/rMwl_F7YJ50)\]
 * 9/8/2020	[江雪](/projects/tang-dynasty-poetry/liu-zong-yuan/jiang-xue) by [柳宗元](/tag/柳宗元)
@@ -32,3 +33,7 @@ Dynasty poetry too? I'd love to hear your thoughts.
 * 9/18/2020 《[夜雨寄北](/projects/tang-dynasty-poetry/yu-shang-yin/ye-yu-ji-bei)》 [李商隐](/tag/李商隐)
 
 * 9/19/2020 《[出塞](/projects/tang-dynasty-poetry/wang-chang-ling/chu-sai)》 [王昌龄](/tag/王昌龄)
+* 9/20/2020 《[山行](/projects/tang-dynasty-poetry/du-mu/san-xing)》 [杜牧](/tag/杜牧)
+* 9/21/2020 《[赠花卿](/projects/tang-dynasty-poetry/du-fu/zeng-hua-qing)》 [杜甫](/tag/杜甫)
+
+Like Tang Dynasty poetry too? I'd love to hear your thoughts.
