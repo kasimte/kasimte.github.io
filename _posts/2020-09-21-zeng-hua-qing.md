@@ -14,11 +14,11 @@ tags: chinese tang-dynasty-poetry 杜甫
 人间能得几回闻
 </div>
 
-## Pinyin
+## Mandarin Pinyin
 
 jǐn chéng sī guǎn rì fēn fēn<br />
 bàn rù jiāng fēng bàn rù yún<br />
-cǐ qū zhī yīng tiān shàng yǒu<br/>
+cǐ qū zhǐ yīng tiān shàng yǒu<br/>
 rén jiān néng dé jī huí wén<br />
 
 ## Notes
