@@ -9,6 +9,11 @@ tags: chinese tang-dynasty-poetry 李商隐
 
 <p>
 <div class="chinese-poem" style="font-size: 1.25em; background-color: #eef; padding: 10px; margin: 5px;">
+《登乐游原》
+<br />
+李商隐
+<br /><br />
+
 向晚意不适
 <br />
 驱车登古原
