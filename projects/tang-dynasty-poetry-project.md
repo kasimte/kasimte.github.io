@@ -17,7 +17,7 @@ one a day, up to 50 poems. This page documents my progress.
 * 9/4/2020 悯农 by 李绅 \[[YouTube](https://youtu.be/odTdxJbxQxQ)\]
 * 9/5/2020	[咏鹅](/projects/tang-dynasty-poetry/luo-bin-wang/yong-e) by 骆宾王	(luò bīn wáng)	\[[YouTube](https://youtu.be/8ryJj6FOBZA)\]
 * 9/6/2020	《[鹿柴](/projects/tang-dynasty-poetry/wang-wei/lv-zhai)》 [王维](/tag/王维)
-* 9/7/2020	登鹳雀楼	(dēng guàn què lóu) by 王之涣	(wáng zhī huàn)	\[[YouTube](https://youtu.be/rMwl_F7YJ50)\]
+* 9/7/2020	[登鹳雀楼](/projects/tang-dynasty-poetry/wang-zhi-huan/deng-guan-que-lou) by 王之涣
 * 9/8/2020	[江雪](/projects/tang-dynasty-poetry/liu-zong-yuan/jiang-xue) by [柳宗元](/tag/柳宗元)
 
 * 9/9/2020	寻隐者不遇 by 贾岛		\[[YouTube](https://youtu.be/Qe2pUTuu3r8)\]
@@ -37,5 +37,7 @@ one a day, up to 50 poems. This page documents my progress.
 * 9/21/2020 《[赠花卿](/projects/tang-dynasty-poetry/du-fu/zeng-hua-qing)》 [杜甫](/tag/杜甫)
 * 9/22/2020 《[嫦娥](/projects/tang-dynasty-poetry/li-shang-yin/chang-e)》 [李商隐](/tag/李商隐)
 * 9/23/2020 《[清明](/projects/tang-dynasty-poetry/du-mu/qing-ming)》 [杜牧](/tag/杜牧)
+
+* 9/24/2020 《[江南逢李龟年](/projects/tang-dynasty-poetry/du-fu/jiang-nan-feng-li-gui-nian)》 杜甫
 
 Like Tang Dynasty poetry too? I'd love to hear your thoughts.
