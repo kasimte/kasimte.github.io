@@ -40,5 +40,6 @@ one a day, up to 50 poems. This page documents my progress.
 
 * 9/24/2020 《[江南逢李龟年](/projects/tang-dynasty-poetry/du-fu/jiang-nan-feng-li-gui-nian)》 [杜甫](/tag/杜甫)
 * 9/25/2020 《[望庐山瀑布](/projects/tang-dyanasty-poetry/li-bai/wang-lu-shan-bu-pu)》 [李白](/tag/李白)
+* 9/26/2020 《[绝句](/projects/tang-dynasty-poetry/du-fu/jue-ju)》 [杜甫](/tag/杜甫)
 
 Like Tang Dynasty poetry too? I'd love to hear your thoughts.
