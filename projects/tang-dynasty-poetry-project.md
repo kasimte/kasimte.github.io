@@ -10,7 +10,7 @@ one a day, up to 50 poems. This page documents my progress.
 
 * 8/30/2020 金缕衣 by 杜秋娘 (dù qiū niáng) \[[YouTube](https://youtu.be/q0jqpQhtcfA)\]
 * 8/31/2020	《[静夜思](/projects/tang-dynasty-poetry/li-bai/jing-ye-si)》 [李白](/tag/李白)
-* 9/1/2020 春晓	by 孟浩然 \[[YouTube](https://youtu.be/8g0ZbXonq6c)\]
+* 9/1/2020 [春晓](/projects/tang-dynasty-poetry/meng-hao-ran/chun-xiao)	by [孟浩然](/tag/孟浩然)
 * 9/2/2020 回乡偶书 by 贺知章 (hè zhī zhāng) \[[YouTube](https://youtu.be/iySLv2uHlRw)\]
 * 9/3/2020 相思 by 王维 \[[YouTube](https://youtu.be/SI_Qy3vxQgM)\]
 
@@ -41,5 +41,6 @@ one a day, up to 50 poems. This page documents my progress.
 * 9/24/2020 《[江南逢李龟年](/projects/tang-dynasty-poetry/du-fu/jiang-nan-feng-li-gui-nian)》 [杜甫](/tag/杜甫)
 * 9/25/2020 《[望庐山瀑布](/projects/tang-dyanasty-poetry/li-bai/wang-lu-shan-bu-pu)》 [李白](/tag/李白)
 * 9/26/2020 《[绝句](/projects/tang-dynasty-poetry/du-fu/jue-ju)》 [杜甫](/tag/杜甫)
+* 9/27/2020 《[山中问答](/projects/tang-dyanasty-poetry/li-bai/shan-zhong-wen-da)》 [李白](/tag/李白)
 
 Like Tang Dynasty poetry too? I'd love to hear your thoughts.
