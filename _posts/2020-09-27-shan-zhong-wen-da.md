@@ -19,7 +19,7 @@ tags: chinese tang-dynasty-poetry 李白
 <br />
 笑而不答心自闲
 <br />
-桃花流水杳然去
+桃花流水窅然去
 <br />
 别有天地非人间
 </div>

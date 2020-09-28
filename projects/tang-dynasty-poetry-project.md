@@ -42,5 +42,6 @@ one a day, up to 50 poems. This page documents my progress.
 * 9/25/2020 《[望庐山瀑布](/projects/tang-dyanasty-poetry/li-bai/wang-lu-shan-bu-pu)》 [李白](/tag/李白)
 * 9/26/2020 《[绝句](/projects/tang-dynasty-poetry/du-fu/jue-ju)》 [杜甫](/tag/杜甫)
 * 9/27/2020 《[山中问答](/projects/tang-dyanasty-poetry/li-bai/shan-zhong-wen-da)》 [李白](/tag/李白)
+* 9/28/2020 《[望天门山](/projects/tang-dyanasty-poetry/li-bai/wang-tian-men-shan)》 [李白](/tag/李白)
 
 Like Tang Dynasty poetry too? I'd love to hear your thoughts.
