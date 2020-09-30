@@ -39,12 +39,11 @@ bì shuǐ dōng liú zhì cǐ huí
 liǎng àn qīng shān xiāng duì chū
 <br />
 gū fān yī piàn rì biān lái
-<br />
-wèn yú hé yì qī bì shān
 </p>
 
 ## Notes
 
+* [The Tang Dynasty pronunciation of 回 was 唐代读音 *huəi.](http://www.zdic.net/hans/%E5%9B%9E)
 * 楚江 *chu3jiang1* another name for the Yangtze River, named after the old state of *Chu*
 * 两岸青山 refering to 东梁山 and 西梁山
 
