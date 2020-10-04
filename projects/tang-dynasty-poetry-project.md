@@ -12,7 +12,7 @@ one a day, up to 50 poems. This page documents my progress.
 * 8/31/2020	《[静夜思](/projects/tang-dynasty-poetry/li-bai/jing-ye-si)》 [李白](/tag/李白)
 * 9/1/2020 [春晓](/projects/tang-dynasty-poetry/meng-hao-ran/chun-xiao)	by [孟浩然](/tag/孟浩然)
 * 9/2/2020 回乡偶书 by 贺知章 (hè zhī zhāng) \[[YouTube](https://youtu.be/iySLv2uHlRw)\]
-* 9/3/2020 相思 by 王维 \[[YouTube](https://youtu.be/SI_Qy3vxQgM)\]
+* 9/3/2020 [相思](/projects/tang-dynasty-poetry/wang-wei/xiang-si) by [王维](/tag/王维)
 
 * 9/4/2020 [悯农](/projects/tang-dynasty-poetry/li-shen/min-nong) by [李绅](/tag/李绅)
 * 9/5/2020	[咏鹅](/projects/tang-dynasty-poetry/luo-bin-wang/yong-e) by [骆宾王](/tag/骆宾王)
@@ -48,5 +48,8 @@ one a day, up to 50 poems. This page documents my progress.
 * 9/30/2020 《[题菊花](/projects/tang-dynasty-poetry/huang-chao/ti-ju-hua)》 [黄巢](/tag/黄巢)
 * 10/1/2020 《[登科后](/projects/tang-dynasty-poetry/meng-jiao/deng-ke-hou)》 孟郊
 * 10/2/2020 《[乌衣巷](/projects/tang-dynasty-poetry/liu-yu-xi/wu-yi-xiang)》 刘禹锡
+* 10/3/2020 《[登幽州台歌](/projects/tang-dynasty-poetry/chen-zi-ang/deng-you-zhou-tai-ge)》 [陈子昂](/tag/陈子昂)
+
+* 10/4/2020 《[杂诗](/projects/tang-dynasty-poetry/wang-wei/za-shi)》 [王维](/tag/王维)
 
 Like Tang Dynasty poetry too? I'd love to hear your thoughts.
