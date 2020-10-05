@@ -51,5 +51,6 @@ one a day, up to 50 poems. This page documents my progress.
 * 10/3/2020 《[登幽州台歌](/projects/tang-dynasty-poetry/chen-zi-ang/deng-you-zhou-tai-ge)》 [陈子昂](/tag/陈子昂)
 
 * 10/4/2020 《[杂诗](/projects/tang-dynasty-poetry/wang-wei/za-shi)》 [王维](/tag/王维)
+* 10/5/2020 《[离思](/projects/tang-dynasty-poetry/yuan-zhen/li-si)》 [元稹](/tag/元稹)
 
 Like Tang Dynasty poetry too? I'd love to hear your thoughts.
