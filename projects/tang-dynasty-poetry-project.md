@@ -8,7 +8,7 @@ title: The Tang Dynasty Poetry Project
 I've recently been going through Tang Dynasty Poetry, trying to learn
 one a day, up to 50 poems. This page documents my progress.
 
-* 8/30/2020 金缕衣 by 杜秋娘 (dù qiū niáng) \[[YouTube](https://youtu.be/q0jqpQhtcfA)\]
+* 8/30/2020 [金缕衣](/projects/tang-dynasty-poetry/du-qiu-niang/jin-lv-yi) by [杜秋娘](/tag/杜秋娘)
 * 8/31/2020	《[静夜思](/projects/tang-dynasty-poetry/li-bai/jing-ye-si)》 [李白](/tag/李白)
 * 9/1/2020 [春晓](/projects/tang-dynasty-poetry/meng-hao-ran/chun-xiao)	by [孟浩然](/tag/孟浩然)
 * 9/2/2020 [回乡偶书](/projects/tang-dynasty-poetry/he-zhi-zhang/hui-xiang-ou-shu) by [贺知章](/tag/贺知章)
@@ -54,5 +54,6 @@ one a day, up to 50 poems. This page documents my progress.
 * 10/5/2020 《[离思](/projects/tang-dynasty-poetry/yuan-zhen/li-si)》 [元稹](/tag/元稹)
 * 10/6/2020 《[遗爱寺](/projects/tang-dynasty-poetry/bai-ju-yi/yi-ai-si)》 [白居易](/tag/白居易)
 * 10/7/2020 《[咏柳](/projects/tang-dynasty-poetry/he-zhi-zhang/yong-liu)》 [贺知章](/tag/贺知章)
+* 10/8/2020 《[题都城南庄](/projects/tang-dynasty-poetry/cui-hu/ti-du-cheng-nan-zhuang)》 [崔护](/tag/崔护)
 
 Like Tang Dynasty poetry too? I'd love to hear your thoughts.
