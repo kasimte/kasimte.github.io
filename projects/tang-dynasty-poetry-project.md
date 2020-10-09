@@ -56,4 +56,6 @@ one a day, up to 50 poems. This page documents my progress.
 * 10/7/2020 《[咏柳](/projects/tang-dynasty-poetry/he-zhi-zhang/yong-liu)》 [贺知章](/tag/贺知章)
 * 10/8/2020 《[题都城南庄](/projects/tang-dynasty-poetry/cui-hu/ti-du-cheng-nan-zhuang)》 [崔护](/tag/崔护)
 
+* 10/9/2020 《[滁州西涧](/projects/tang-dynasty-poetry/wei-ying-wu/chu-zhou-xin-jian)》 [韦应物](/tag/韦应物)
+
 Like Tang Dynasty poetry too? I'd love to hear your thoughts.
