@@ -5,8 +5,9 @@ permalink: /projects/tang-dynasty-poetry/wang-zhi-huan/deng-guan-que-lou
 tags: chinese tang-dynasty-poetry 王之涣
 ---
 
-## Text
+<p><img src="/assets/images/generated/deng-guan-que-lou-800-8d2d75a3a.png" srcset="/assets/images/generated/deng-guan-que-lou-400-8d2d75a3a.png 400w, /assets/images/generated/deng-guan-que-lou-600-8d2d75a3a.png 600w, /assets/images/generated/deng-guan-que-lou-800-8d2d75a3a.png 800w, /assets/images/generated/deng-guan-que-lou-1000-8d2d75a3a.png 1000w" /></p>
 
+## Text
 
 <p>
 <div class="chinese-poem" style="font-size: 1.25em; background-color: #eef; padding: 10px; margin: 5px;">
