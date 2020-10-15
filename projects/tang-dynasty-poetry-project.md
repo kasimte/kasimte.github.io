@@ -54,5 +54,6 @@ one a day, up to 50 poems. This page documents my progress.
 1. 10/12/2020 《[夜宿山寺](/projects/tang-dynasty-poetry/li-bai/ye-su-shan-si)》 [李白](/tag/李白)
 1. 10/13/2020 《[竹里馆](/projects/tang-dynasty-poetry/wang-wei/zhu-li-guan)》 [王维](/tag/王维)
 1. 10/14/2020 《[于易水送人](/projects/tang-dynasty-poetry/luo-bin-wang/yu-yi-shui-song-ren)》 [骆宾王](/tag/骆宾王)
+1. 10/15/2020 《[问刘十九](/projects/tang-dynasty-poetry/bai-ju-yi/wen-liu-shi-jiu)》 [白居易](/tag/白居易)
 
 Like Tang Dynasty poetry too? I'd love to hear your thoughts.
