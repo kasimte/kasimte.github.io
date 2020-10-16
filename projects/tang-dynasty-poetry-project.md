@@ -9,7 +9,7 @@ I've recently been going through Tang Dynasty Poetry, trying to learn
 one a day, up to 50 poems. This page documents my progress.
 
 1. 8/30/2020 [金缕衣](/projects/tang-dynasty-poetry/du-qiu-niang/jin-lv-yi) by [杜秋娘](/tag/杜秋娘)
-1. 8/31/2020	《[静夜思](/projects/tang-dynasty-poetry/li-bai/jing-ye-si)》 [李白](/tag/李白)
+1. 8/31/2020 《[静夜思](/projects/tang-dynasty-poetry/li-bai/jing-ye-si)》 [李白](/tag/李白)
 1. 9/1/2020 [春晓](/projects/tang-dynasty-poetry/meng-hao-ran/chun-xiao)	by [孟浩然](/tag/孟浩然)
 1. 9/2/2020 [回乡偶书](/projects/tang-dynasty-poetry/he-zhi-zhang/hui-xiang-ou-shu) by [贺知章](/tag/贺知章)
 1. 9/3/2020 [相思](/projects/tang-dynasty-poetry/wang-wei/xiang-si) by [王维](/tag/王维)
@@ -55,5 +55,7 @@ one a day, up to 50 poems. This page documents my progress.
 1. 10/13/2020 《[竹里馆](/projects/tang-dynasty-poetry/wang-wei/zhu-li-guan)》 [王维](/tag/王维)
 1. 10/14/2020 《[于易水送人](/projects/tang-dynasty-poetry/luo-bin-wang/yu-yi-shui-song-ren)》 [骆宾王](/tag/骆宾王)
 1. 10/15/2020 《[问刘十九](/projects/tang-dynasty-poetry/bai-ju-yi/wen-liu-shi-jiu)》 [白居易](/tag/白居易)
+1. 10/16/2020 《[剑客](/projects/tang-dynasty-poetry/jia-dao/jian-ke)》 [贾岛](/tag/贾岛)
+
 
 Like Tang Dynasty poetry too? I'd love to hear your thoughts.
