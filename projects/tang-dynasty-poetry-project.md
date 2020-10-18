@@ -40,8 +40,8 @@ one a day, up to 50 poems. This page documents my progress.
 1. 9/28/2020 《[望天门山](/projects/tang-dyanasty-poetry/li-bai/wang-tian-men-shan)》 [李白](/tag/李白)
 1. 9/29/2020 《[大林寺桃花](/projects/tang-dynasty-poetry/bai-ju-yi/da-lin-si-tao-hua)》 [白居易](/tag/白居易)
 1. 9/30/2020 《[题菊花](/projects/tang-dynasty-poetry/huang-chao/ti-ju-hua)》 [黄巢](/tag/黄巢)
-1. 10/1/2020 《[登科后](/projects/tang-dynasty-poetry/meng-jiao/deng-ke-hou)》 孟郊
-1. 10/2/2020 《[乌衣巷](/projects/tang-dynasty-poetry/liu-yu-xi/wu-yi-xiang)》 刘禹锡
+1. 10/1/2020 《[登科后](/projects/tang-dynasty-poetry/meng-jiao/deng-ke-hou)》 [孟郊](/tag/孟郊)
+1. 10/2/2020 《[乌衣巷](/projects/tang-dynasty-poetry/liu-yu-xi/wu-yi-xiang)》 [刘禹锡](/tag/刘禹锡)
 1. 10/3/2020 《[登幽州台歌](/projects/tang-dynasty-poetry/chen-zi-ang/deng-you-zhou-tai-ge)》 [陈子昂](/tag/陈子昂)
 1. 10/4/2020 《[杂诗](/projects/tang-dynasty-poetry/wang-wei/za-shi)》 [王维](/tag/王维)
 1. 10/5/2020 《[离思](/projects/tang-dynasty-poetry/yuan-zhen/li-si)》 [元稹](/tag/元稹)
@@ -57,5 +57,6 @@ one a day, up to 50 poems. This page documents my progress.
 1. 10/15/2020 《[问刘十九](/projects/tang-dynasty-poetry/bai-ju-yi/wen-liu-shi-jiu)》 [白居易](/tag/白居易)
 1. 10/16/2020 《[剑客](/projects/tang-dynasty-poetry/jia-dao/jian-ke)》 [贾岛](/tag/贾岛)
 1. 10/17/2020 《[独坐敬亭山](/projects/tang-dynasty-poetry/li-bai/du-zuo-jing-ting-shan)》 [李白](/tag/李白)
+1. 10/18/2020 《[芙蓉楼送辛渐](/projects/tang-dynasty-poetry/wang-chang-ling/fu-rong-lou-song-xin-jian)》 [王昌龄](/tag/王昌龄)
 
 Like Tang Dynasty poetry too? I'd love to hear your thoughts.
