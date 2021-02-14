@@ -1,35 +1,25 @@
 ---
 layout: post
-title: "Using z"
-tags: terminal productivity
+title: "Clearing up harddrive space with docker prune"
+tags: terminal productivity docker
 ---
 
-My brother introduced me to `z` today. Talk about fast directory navigation from the command line! `z` tracks directories you visit in the Terminal and offers fast navigation to previously visited locations via name or regex.
+My brother taught me a neat one-line trick today to clear up some
+extra harddrive space with `docker prune`.
+
+It is pretty straight-forward:
 
 ```bash
-# `z` brings up a list of directories I've visited, sorted by frequency.
-Kasim:~ Kasim$ z
-common:    /Users/Kasim/Projects
-149952     /Users/Kasim/Projects/Atlas
-179111     /Users/Kasim/Projects
-299664     /Users/Kasim/Projects/nodeappgen
-389657     /Users/Kasim/Projects/atlas
-# `z atlas` goes to the most frequently directory matching `atlas`
-Kasim:~ Kasim$ z atlas
-Kasim:atlas Kasim$ pwd
-/Users/Kasim/Projects/atlas
-# `z node` goes to the most frequently directory matching `atlas`
-Kasim:atlas Kasim$ z node
-Kasim:nodeappgen Kasim$ pwd
-/Users/Kasim/Projects/nodeappgen
-Kasim:nodeappgen Kasim$
+docker image prune
 ```
 
-Installing was a breeze. I copied the `z.sh` file from GitHub (https://github.com/rupa/z/blob/master/z.sh) to `~/bin/z.sh` and added the following to my `.bash_profile`:
+What does this do? It searches through all the docker images you have
+locally on your computer and deletes any that don't have any
+containers referencing them.
 
-```bash
-################################################
-## z: https://github.com/rupa/z/blob/master/z.sh
-################################################
-. ~/bin/z.sh
-```
+An `image` is like the saved docker instance and a `container` is an
+instantiation of an `image`. You may have multiple `contianer` objects
+for each `image`, but you may also have none.
+
+This cleared up a couple gigs for me but I could se eit clearing up a
+lot more space for someone using docker more heavily.
