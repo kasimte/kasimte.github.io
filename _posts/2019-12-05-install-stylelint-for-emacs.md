@@ -65,7 +65,7 @@ have to edit the absolute paths for your own system (i.e., change
         "media-feature-name-no-vendor-prefix": true,
         "media-feature-colon-space-before": "never",
         "media-feature-colon-space-after": "always",
-        "at-rule-no-unknown": null,
+        "at-rule-no-unknown": null
       }
 }
 ```
