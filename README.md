@@ -10,6 +10,13 @@ This is my personal website. Trying to keep it simple:
 * responsive images based on [Jekyll Picture Tag](https://github.com/rbuchberger/jekyll_picture_tag)
 * tags added based off the [tutorial here by Long Qian](http://longqian.me/2017/02/09/github-jekyll-tag/)
 
+## Quick Start
+
+```
+bundle install
+bundle exec jekyll serve
+```
+
 ## Tips
 
 Build the site for production:

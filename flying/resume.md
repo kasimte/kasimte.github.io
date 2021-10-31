@@ -1,23 +1,22 @@
 ---
 layout: page
 title: "Flying Resume"
-tagline: "updated November 2019"
+tagline: "updated summer 2021"
 ---
 
-Kasim Te. <br />Daejeon, South Korea and Chelmsford, MA USA.<br />Reachable at [kasimte@gmail.com](mailto:kasimte@gmail.com).
+Kasim Te. <br />Seoul and Boston.<br />Reachable at [kasimte@gmail.com](mailto:kasimte@gmail.com).
 
-## Licenses and Endorsements
+## Summary
 
 - Weight: 145 pounds (appx. 65 kilograms)
 - FAA commercial pilot with rotorcraft-helicopter with instrument ratings, issued April 2010. ([Verify](https://amsrvs.registry.faa.gov/airmeninquiry))
-- FAA instructor helicopter license with instrument rating (CFII-H), expires May 2020. ([Verify](https://amsrvs.registry.faa.gov/airmeninquiry))
+- FAA instructor helicopter license with instrument rating (CFII-H), expires May 2022. ([Verify](https://amsrvs.registry.faa.gov/airmeninquiry))
 - FAA commercial remote pilot with small unmanned aircraft system rating. issued February 2017. ([Verify](https://amsrvs.registry.faa.gov/airmeninquiry))
 - SFAR 73 signoffs to instruct in the Robinson R22 and Robinson R44
 - FAA 2nd Class Medical issued August 2016 ([Verify](https://amsrvs.registry.faa.gov/airmeninquiry))
 - Robinson Factory Safety Course (June 2008)
 - Starr Insurance Competency Check Flight (August 2016)
 - Nationality: USA
-- Age: 37 years
 
 ## Flight Hours
 
@@ -49,14 +48,12 @@ CFII-H, and ATP ratings.
 
 ## Education
 
-Korea Advanced Institute of Science and Technology. Master's Degree in Knowledge Service Engineering, expected February 2020. 
-
-University of Massachusetts Amherst. BA in Chinese, Sept 2000 - May 2004. Summa Cum Laude. GPA: 3.9+.
+- KAIST. Masters in Knowledge Service Engineering.
+- UMass/Amherst. BA in Chinese.
 
 ## Other
 
 - Native English speaker. Familiarity with Mandarin, Korean, and Khmer.
-- Massachusetts native. Have lived in South Korea, China, and California.
 - Flying experience in New England, California, Florida, and Ireland.
 
 ## References
