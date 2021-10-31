@@ -1,26 +1,11 @@
 ---
-layout: default
-title: Posts
-permalink: "/"
+layout: page
+title: Kasim Te
+permalink: /
 ---
 
-Hi, I'm [Kasim](about/). Welcome to my site. 
+Hi, I'm Kasim. The best way to reach me:
 
-<div class="home">
-  {%- if site.posts.size > 0 -%}
-    <h1 class="post-list-heading">Posts</h1>
-	
-	<p>
-	
-    <ul>
-      {%- for post in site.posts -%}
-        <li>
-          <a href="{{ post.url | relative_url }}">
-		    {{ post.title | escape }}
-          </a>
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-          </li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
+- Email: kasimte (at) gmail (dot) com
+- GitHub: [github.com/kasimte](https://github.com/kasimte)
+- LinkedIn: [Kasim Te](https://www.linkedin.com/in/kasim-te-a815b332)

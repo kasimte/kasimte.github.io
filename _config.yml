@@ -1,6 +1,5 @@
 title: Kasim Te
 # author: kasimte (on) GitHub
-email: kasimte@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -14,12 +13,12 @@ minima:
   social_links:
     twitter: kasimte
     github:  kasimte
+    linkedin: kasim-te-a815b332
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: kasim-te-a815b332
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -40,13 +39,6 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - about.md
-  - posts.md
-  # - blog.md
-  # - flying/index.md
-
-# Enable mathjax and latex. See `_includes/head.html` for the
-# implementation.
-use_mathjax: true
 
 # Build settings
 theme: minima
@@ -54,14 +46,6 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
-
-google_analytics: UA-3507592-2
-
-# Disqus Comments
-disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: "kasimte"
 
 # Force inclusion of directories and/or files in the
 # conversion. .htaccess is a good example since dotfiles are excluded
