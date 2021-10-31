@@ -1,0 +1,11 @@
+# Default settings for _config.yml
+picture:
+  source: ''
+  output: generated
+  suppress_warnings: false
+  relative_url: true
+  cdn_environments: ['production']
+  nomarkdown: true
+  ignore_missing_images: false
+  disabled: false
+  fast_build: false
