@@ -9,7 +9,8 @@ I came across this while reading through [OpenAI's Spinning Up Reinforcement Lea
 > The Log-Derivative Trick. The log-derivative trick is based on a simple rule from calculus: the derivative of log x with respect to x is 1/x. When rearranged and combined with chain rule, we get:
 >
 
-$$\nabla_{\theta} P(\tau|\theta) = P(\tau|\theta) \log P(\tau|\theta)$$
+$$\nabla_{\theta} P(\tau|\theta) = P(\tau|\theta) \nabla\log P(\tau|\theta)
+$$
 
 For the calculus challenged, like myself, this may not be too obvious, so the following added details may help. 
 
